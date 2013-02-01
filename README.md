@@ -3,6 +3,9 @@ Open-Zipcode-Database
 
 the truely free collection of US zipcode information for your application needs
 
+**NOTE: in the process up uploading the files. Need to dig up the old script**
+
+
 ##About
 Lauf Labs LLC has written a few chestnuts along the way of producing RunPartner.com. For user zip validation, we needed a zipcode database.
 
